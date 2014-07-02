@@ -1,0 +1,25 @@
+{
+  "name": "fng-ui-router",
+  "version": "0.0.1",
+  "authors": [
+    "Mark Chapman <mark.chapman@gmail.com>",
+    "Gulshan Kumar <drakeoone@gmail.com>"
+  ],
+  "description": "Forms Angular plugin for State based routing",
+  "main": "",
+  "keywords": [
+    "forms-angular"
+  ],
+  "license": "MIT",
+  "homepage": "www.forms-angular.org",
+  "dependencies": {
+    "angular-ui-router": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
