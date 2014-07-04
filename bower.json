@@ -6,10 +6,12 @@
     "Gulshan Kumar <drakeoone@gmail.com>"
   ],
   "description": "Forms Angular plugin for State based routing",
-  "main": "",
   "keywords": [
     "forms-angular"
   ],
+  "main": [
+    "release/fng-ui-router.js"
+    ],
   "license": "MIT",
   "homepage": "www.forms-angular.org",
   "dependencies": {
